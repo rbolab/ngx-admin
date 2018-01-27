@@ -34,3 +34,4 @@ deploy:
   provider: npm
   email: testregistry01@gmail.com
   api_key: 724f2d05-ba37-44e0-8564-78c3a67b9199
+  skip_cleanup: true
