@@ -1,10 +1,10 @@
 {
-  "name": "ngx-admin",
+  "name": "ngx-admin-rbolab",
   "version": "2.0.1",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/akveo/ngx-admin.git"
+    "url": "git+https://github.com/rbolab/ngx-admin.git"
   },
   "bugs": {
     "url": "https://github.com/akveo/ngx-admin/issues"
